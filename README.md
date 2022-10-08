@@ -5,5 +5,5 @@ would be my career path. Since then, I have been working on constantly learning 
 that will aid me in my career. 
 
 Languages, Frameworks & Tools:
-Java, C, C#, Python, SQL, MySQL, ASP.NET, Python, HTML, CSS, JavaScript, TypeScript, Angular,
+Java, C, C#, Python, SQL, MySQL, ASP.NET, HTML, CSS, JavaScript, TypeScript, Angular,
 ReactJS, Spring
