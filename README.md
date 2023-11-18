@@ -5,4 +5,4 @@ will be my career path. Since then, I have been working on constantly learning n
 that will aid me in my career. 
 
 Languages, Frameworks & Tools:
-Java (including JUnit, Mockito, Selenium, Cucumber), C, C#, Python (including ML packages), SQL, MySQL, Postgres, ASP.NET, HTML, CSS, JavaScript, TypeScript, Angular, Spring, .NET MAUI, Android Studio
+Java (including test frameworks like JUnit, Mockito, Selenium, Cucumber), C, C#, Python (including ML packages), SQL, Postgres, .NET (including ASP.NET), HTML, CSS, JavaScript, TypeScript, Angular, Spring, .NET MAUI, Android Studio, React Native
